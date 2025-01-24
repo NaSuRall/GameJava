@@ -13,7 +13,6 @@ public class Game {
         scanner.nextLine();
 
 
-
         for (int i = 1; i <= NumberOfPlayers; i++) {
             System.out.println("Renseigner Votre pseudo Player " + i + ":");
             String pseudo = scanner.nextLine();
